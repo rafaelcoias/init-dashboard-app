@@ -1,1 +1,1 @@
-# init-react-app# init-dashboard-app
+# ReactJS dashboard template using Typescript
